@@ -1,0 +1,49 @@
+body {
+ font-family: sans-serif;
+}
+
+main {
+ background-color: #eeeeee;
+ border-radius: 5px;
+}
+
+header {
+ text-align: center;
+}
+
+
+#image {
+ display: block;
+ max-width: 100%;
+ height: auto;
+ align-items: center;
+ margin: auto;
+}
+
+#img-caption {
+text-align: center;
+}
+
+
+#tribute-info {
+ text-align: center;
+}
+
+ul {
+ max-width: 550px;
+ margin: 0 auto 50px auto;
+ text-align: left;
+ line-height: 1.6;
+}
+
+.paragraph {
+ max-width: 550px;
+ margin: 0 auto 50px auto;
+ text-align: left;
+ line-height: 1.6;
+}
+
+#last-para{
+ text-align: center;
+ font-weight: bold;
+}
